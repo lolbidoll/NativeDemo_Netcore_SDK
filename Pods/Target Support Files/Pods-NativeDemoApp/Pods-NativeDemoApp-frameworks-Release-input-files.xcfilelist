@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-NativeDemoApp/Pods-NativeDemoApp-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SmartPush-iOS-SDK/SmartPush.framework/SmartPush
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Smartech-iOS-SDK/Smartech.framework/Smartech

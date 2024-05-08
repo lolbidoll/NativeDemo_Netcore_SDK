@@ -1,0 +1,25 @@
+PODS:
+  - BrazeKit (8.4.0)
+  - Smartech-iOS-SDK (3.5.2)
+  - SmartPush-iOS-SDK (3.5.0):
+    - Smartech-iOS-SDK (>= 3.5.0)
+
+DEPENDENCIES:
+  - BrazeKit
+  - Smartech-iOS-SDK
+  - SmartPush-iOS-SDK
+
+SPEC REPOS:
+  trunk:
+    - BrazeKit
+    - Smartech-iOS-SDK
+    - SmartPush-iOS-SDK
+
+SPEC CHECKSUMS:
+  BrazeKit: 7aa946734211e8371c6525447db98406ded44402
+  Smartech-iOS-SDK: 675a950ce4e7b19db2fa96b4d99216a453184ce0
+  SmartPush-iOS-SDK: de27807ef966b919ae237748a0cfadc8243ea9cd
+
+PODFILE CHECKSUM: ad1e90e4f27c1bd4997896fd13f0f75e46c37772
+
+COCOAPODS: 1.15.2
